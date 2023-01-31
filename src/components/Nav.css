@@ -1,0 +1,14 @@
+nav {
+   background-color: #672280;
+   color: #fff;
+   padding: 1rem;
+}
+.nav--container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.nav--logo {
+   display: flex;
+   gap: .6rem;
+}

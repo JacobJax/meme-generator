@@ -1,0 +1,25 @@
+/* .meme--image {
+   padding: 0 1rem;
+}
+.meme--image-cont img{
+   width: 100%;
+}
+.meme--image-cont {
+   position: relative;
+}
+.meme--text {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: #fff;
+   font-size: x-large;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+   text-align: center;
+   position: absolute;
+   top: 2rem;
+   bottom: 2rem;
+   left: 0;
+   right: 0;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+} */
